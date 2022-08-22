@@ -1,0 +1,15 @@
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\bin\Debug\net6.0\SortTheOdds.exe
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\bin\Debug\net6.0\SortTheOdds.deps.json
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\bin\Debug\net6.0\SortTheOdds.runtimeconfig.json
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\bin\Debug\net6.0\SortTheOdds.dll
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\bin\Debug\net6.0\SortTheOdds.pdb
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\SortTheOdds.csproj.AssemblyReference.cache
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\SortTheOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\SortTheOdds.AssemblyInfoInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\SortTheOdds.AssemblyInfo.cs
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\SortTheOdds.csproj.CoreCompileInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\SortTheOdds.dll
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\refint\SortTheOdds.dll
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\SortTheOdds.pdb
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\SortTheOdds.genruntimeconfig.cache
+C:\Users\Skinnysolids\Desktop\repos\SortTheOdds\SortTheOdds\obj\Debug\net6.0\ref\SortTheOdds.dll
